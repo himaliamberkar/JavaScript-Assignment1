@@ -1,6 +1,7 @@
 {
   "name": "db-java-script",
   "version": "1.0.0",
+  "type":"module",
   "main": "Main.js",
   "scripts": {
     "start": "node Main.js"
